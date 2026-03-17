@@ -1,3 +1,0 @@
-conda activate py37
-
-python3 cgenff_charmm2gmx_py3_nx1.py MEN menthol.mol2 menthol.str charmm36_ljpme-jul2022.ff
